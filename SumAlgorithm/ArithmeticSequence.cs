@@ -1,8 +1,7 @@
+// 등차수열의 합계를 구하는 알고리즘
+/*
 using System;
 
-/// <summary>
-/// 등차수열 합계
-/// </summary>
 class ArithmeticSequence{
     static void Main(){
         //Input
@@ -19,3 +18,4 @@ class ArithmeticSequence{
         System.Console.WriteLine($"1부터 20까지의 홀수의 합 : {sum}");
     }
 }
+*/

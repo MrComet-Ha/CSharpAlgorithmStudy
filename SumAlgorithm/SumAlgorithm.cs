@@ -1,8 +1,7 @@
-/*using System;
+// 합계 알고리즘
+/*
+using System;
 
-/// <summary>
-/// 합계 알고리즘
-/// </summary>
 class SumAlgorithm{
     static void Main(){
         //Input : n명의 국어 점수
